@@ -1,6 +1,6 @@
 # React Webpack Boilerplate Project
 
-## Configurations
+## Config Details
 1. React
 2. Cypress
 3. Webpack

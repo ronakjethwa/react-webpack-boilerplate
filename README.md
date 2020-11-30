@@ -1,5 +1,16 @@
 # React Webpack Boilerplate Project
 
+## Build Configs
+1. React
+2. Cypress
+3. Webpack
+4. Babel
+5. CSS
+6. CSS Modules
+7. PostCSS
+8. Sass
+9. SVG/PNG
+10. ESLint
 ## Building and running on localhost
 
 First install dependencies:

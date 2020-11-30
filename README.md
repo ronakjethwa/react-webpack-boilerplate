@@ -1,6 +1,4 @@
-# react-webpack-boilerplate
-
-Empty project.
+# React Webpack Boilerplate Project
 
 ## Building and running on localhost
 
